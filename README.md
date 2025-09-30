@@ -2,11 +2,13 @@
 
 🔍 Project Overview:-
 
-This project develops a predictive model to forecast monthly crime incidents using historical FBI crime data 📅. By leveraging data cleaning, feature engineering, and machine learning, the model provides accurate forecasts to aid crime analysis and prevention 🕵️‍♂️.
+This project develops a predictive model to forecast monthly crime incidents using historical FBI crime data 📅. By leveraging data cleaning, feature engineering, and machine learning, the model produces reliable predictions to support crime analysis and prevention 🕵️‍♂️.
 
-🛠️ Tools & Technologies:-
+Both Random Forest and XGBoost were tested, with XGBoost delivering superior performance ⚡. Becaues those models are best for Time-Series Forecasting
 
-Tool	Purpose:
+🛠️ Tools & Technologies:
+
+Tool	Purpose:-
 
 🐍 Python	Main programming language
 
@@ -14,13 +16,13 @@ Tool	Purpose:
 
 🔢 NumPy	Numerical operations
 
-🧠 Scikit-learn	Machine learning
+🧠 Scikit-learn	Random Forest model
 
-⚡ XGBoost	Boosting algorithm
+⚡ XGBoost	Boosting algorithm with better accuracy
 
 📉 Matplotlib & Seaborn	Data visualization
 
-📌 Project Workflow :-
+📌 Project Workflow :
 
 Data Cleaning & Preprocessing 🧹
 
@@ -50,29 +52,31 @@ Model Building & Training 🤖
 
 Train/test split
 
-XGBoost model training
+Random Forest training
+
+XGBoost training (better performance)
 
 Hyperparameter tuning
 
-
 Evaluation & Metrics 📈:-
 
-MAE: ~35.82
+Model	              MAE	   RMSE	   R² Score
 
-RMSE: ~58.60
+Random Forest	     ~34.5	 ~62.0	 ~0.94
 
-R² Score: ~0.94 ✅
+XGBoost ⚡        	33.82	 59.60	 0.94 ✅
 
-📊 Key Insights :-
+
+📊 Key Insights:
 
 Crime incidents show clear seasonal patterns 📆.
 
-Lagging and rolling features greatly enhance model accuracy ⚡.
+Lagging and rolling features significantly improve model accuracy ⚡.
 
-Historical data is a strong predictor of future crime trends 🕵️‍♂️.
+XGBoost consistently outperformed Random Forest for this dataset 🏆.
 
 
-💡 Future Enhancements :-
+💡 Future Enhancements
 
 Add geospatial analysis for location-based forecasting 🌍.
 
@@ -80,10 +84,10 @@ Integrate real-time crime data for dynamic predictions ⏱️.
 
 Deploy as a web-based dashboard 🌐.
 
-📚 Learnings :-
+📚 Learnings:
 
 Understanding crime patterns can aid policy and policing decisions.
 
 Feature engineering is key for improving model performance.
 
-Combining visualization with prediction creates actionable insights 🔍📊.
+XGBoost’s boosting approach is highly effective for time-series crime prediction 📊.
