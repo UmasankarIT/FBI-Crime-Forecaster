@@ -1,6 +1,6 @@
 🚨 FBI Crime Forecaster Project
 
-🔍 Project Overview
+🔍 Project Overview:-
 
 This project develops a predictive model to forecast monthly crime incidents using historical FBI crime data 📅. By leveraging data cleaning, feature engineering, and machine learning, the model provides accurate forecasts to aid crime analysis and prevention 🕵️‍♂️.
 
@@ -9,13 +9,18 @@ This project develops a predictive model to forecast monthly crime incidents usi
 Tool	Purpose:
 
 🐍 Python	Main programming language
+
 📊 Pandas	Data manipulation
+
 🔢 NumPy	Numerical operations
+
 🧠 Scikit-learn	Machine learning
+
 ⚡ XGBoost	Boosting algorithm
+
 📉 Matplotlib & Seaborn	Data visualization
 
-📌 Project Workflow :
+📌 Project Workflow :-
 
 Data Cleaning & Preprocessing 🧹
 
@@ -50,7 +55,7 @@ XGBoost model training
 Hyperparameter tuning
 
 
-Evaluation & Metrics 📈:
+Evaluation & Metrics 📈:-
 
 MAE: ~35.82
 
@@ -67,7 +72,7 @@ Lagging and rolling features greatly enhance model accuracy ⚡.
 Historical data is a strong predictor of future crime trends 🕵️‍♂️.
 
 
-💡 Future Enhancements :
+💡 Future Enhancements :-
 
 Add geospatial analysis for location-based forecasting 🌍.
 
@@ -75,7 +80,7 @@ Integrate real-time crime data for dynamic predictions ⏱️.
 
 Deploy as a web-based dashboard 🌐.
 
-📚 Learnings :
+📚 Learnings :-
 
 Understanding crime patterns can aid policy and policing decisions.
 
