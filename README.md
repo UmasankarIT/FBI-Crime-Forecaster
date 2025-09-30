@@ -1,10 +1,11 @@
 FBI Crime Forecaster Project
-Project Overview
+
+Project Overview:-
 
 The FBI Crime Forecaster Project is a machine learning initiative designed to forecast monthly crime incidents using historical FBI crime data.
 The project demonstrates a complete workflow: data cleaning, feature engineering, model building, and evaluation, producing an accurate system for crime trend forecasting.
 
-Objectives
+Objectives:-
 
 Predict monthly crime counts using historical crime data.
 
@@ -14,7 +15,7 @@ Compare different machine learning models for forecasting.
 
 Evaluate models using meaningful metrics such as MAE, RMSE, and R² score.
 
-Key Features
+Key Features:-
 
 Time-series analysis of crime incidents.
 
@@ -26,7 +27,7 @@ Comprehensive model evaluation.
 
 Visualizations of crime trends and predictions.
 
-Dataset
+Dataset:-
 
 The dataset contains FBI crime incident records, including:
 
@@ -56,7 +57,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-Workflow
+Workflow:-
 
 Data Preparation: Converting dates, extracting year and month, and aggregating monthly crime counts.
 
@@ -69,11 +70,12 @@ Model Building: Training Random Forest and XGBoost regressors.
 Model Evaluation: Assessing performance with MAE, RMSE, and R² metrics.
 
 Results :-
+
 Model	MAE	RMSE	R² Score
 Random Forest	34.53	62.00	0.94
-XGBoost	33.82	59.60	0.94
+XGBoost	35.82	59.60	0.94
 
-Best model: XGBoost, achieving MAE ≈ 33.82 and R² ≈ 0.94 — showing excellent accuracy for monthly crime prediction.
+Best model: XGBoost, achieving MAE ≈ 35.82 and R² ≈ 0.94 — showing excellent accuracy for monthly crime prediction.
 
 Insights :-
 
