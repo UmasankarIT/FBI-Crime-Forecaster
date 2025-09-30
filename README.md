@@ -91,3 +91,11 @@ Understanding crime patterns can aid policy and policing decisions.
 Feature engineering is key for improving model performance.
 
 XGBoost’s boosting approach is highly effective for time-series crime prediction 📊.
+
+Author:-
+
+Umasankar Gudivada
+
+September 2025
+
+
