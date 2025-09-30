@@ -1,0 +1,217 @@
+YEAR,MONTH,TYPE,Crime_Count
+2012,1,Break and Enter Commercial,215
+2012,2,Break and Enter Commercial,200
+2012,3,Break and Enter Commercial,197
+2012,4,Break and Enter Commercial,200
+2012,5,Break and Enter Commercial,195
+2012,6,Break and Enter Commercial,204
+2012,7,Break and Enter Commercial,199
+2012,8,Break and Enter Commercial,205
+2012,9,Break and Enter Commercial,198
+2012,10,Break and Enter Commercial,206
+2012,11,Break and Enter Commercial,200
+2012,12,Break and Enter Commercial,211
+2013,1,Break and Enter Commercial,202
+2013,2,Break and Enter Commercial,198
+2013,3,Break and Enter Commercial,196
+2013,4,Break and Enter Commercial,194
+2013,5,Break and Enter Commercial,197
+2013,6,Break and Enter Commercial,196
+2013,7,Break and Enter Commercial,202
+2013,8,Break and Enter Commercial,197
+2013,9,Break and Enter Commercial,206
+2013,10,Break and Enter Commercial,202
+2013,11,Break and Enter Commercial,208
+2013,12,Break and Enter Commercial,207
+2012,1,Break and Enter Residential/Other,323
+2012,2,Break and Enter Residential/Other,243
+2012,3,Break and Enter Residential/Other,249
+2012,4,Break and Enter Residential/Other,221
+2012,5,Break and Enter Residential/Other,233
+2012,6,Break and Enter Residential/Other,240
+2012,7,Break and Enter Residential/Other,252
+2012,8,Break and Enter Residential/Other,265
+2012,9,Break and Enter Residential/Other,257
+2012,10,Break and Enter Residential/Other,272
+2012,11,Break and Enter Residential/Other,257
+2012,12,Break and Enter Residential/Other,264
+2013,1,Break and Enter Residential/Other,241
+2013,2,Break and Enter Residential/Other,232
+2013,3,Break and Enter Residential/Other,239
+2013,4,Break and Enter Residential/Other,243
+2013,5,Break and Enter Residential/Other,242
+2013,6,Break and Enter Residential/Other,245
+2013,7,Break and Enter Residential/Other,250
+2013,8,Break and Enter Residential/Other,260
+2013,9,Break and Enter Residential/Other,260
+2013,10,Break and Enter Residential/Other,266
+2013,11,Break and Enter Residential/Other,262
+2013,12,Break and Enter Residential/Other,255
+2012,1,Mischief,355
+2012,2,Mischief,344
+2012,3,Mischief,365
+2012,4,Mischief,369
+2012,5,Mischief,366
+2012,6,Mischief,368
+2012,7,Mischief,373
+2012,8,Mischief,372
+2012,9,Mischief,364
+2012,10,Mischief,378
+2012,11,Mischief,387
+2012,12,Mischief,358
+2013,1,Mischief,423
+2013,2,Mischief,358
+2013,3,Mischief,362
+2013,4,Mischief,371
+2013,5,Mischief,371
+2013,6,Mischief,366
+2013,7,Mischief,374
+2013,8,Mischief,371
+2013,9,Mischief,364
+2013,10,Mischief,364
+2013,11,Mischief,377
+2013,12,Mischief,349
+2012,1,Offence Against a Person,31
+2012,2,Offence Against a Person,28
+2012,3,Offence Against a Person,31
+2012,4,Offence Against a Person,30
+2012,5,Offence Against a Person,31
+2012,6,Offence Against a Person,30
+2012,7,Offence Against a Person,31
+2012,8,Offence Against a Person,31
+2012,9,Offence Against a Person,30
+2012,10,Offence Against a Person,31
+2012,11,Offence Against a Person,30
+2012,12,Offence Against a Person,31
+2013,1,Offence Against a Person,31
+2013,2,Offence Against a Person,28
+2013,3,Offence Against a Person,31
+2013,4,Offence Against a Person,30
+2013,5,Offence Against a Person,31
+2013,6,Offence Against a Person,30
+2013,7,Offence Against a Person,31
+2013,8,Offence Against a Person,31
+2013,9,Offence Against a Person,30
+2013,10,Offence Against a Person,31
+2013,11,Offence Against a Person,30
+2013,12,Offence Against a Person,31
+2012,1,Other Theft,393
+2012,2,Other Theft,390
+2012,3,Other Theft,395
+2012,4,Other Theft,389
+2012,5,Other Theft,391
+2012,6,Other Theft,393
+2012,7,Other Theft,395
+2012,8,Other Theft,400
+2012,9,Other Theft,386
+2012,10,Other Theft,396
+2012,11,Other Theft,400
+2012,12,Other Theft,394
+2013,1,Other Theft,389
+2013,2,Other Theft,389
+2013,3,Other Theft,390
+2013,4,Other Theft,395
+2013,5,Other Theft,395
+2013,6,Other Theft,396
+2013,7,Other Theft,396
+2013,8,Other Theft,394
+2013,9,Other Theft,395
+2013,10,Other Theft,387
+2013,11,Other Theft,392
+2013,12,Other Theft,392
+2012,1,Theft from Vehicle,1091
+2012,2,Theft from Vehicle,1045
+2012,3,Theft from Vehicle,994
+2012,4,Theft from Vehicle,960
+2012,5,Theft from Vehicle,929
+2012,6,Theft from Vehicle,944
+2012,7,Theft from Vehicle,939
+2012,8,Theft from Vehicle,953
+2012,9,Theft from Vehicle,953
+2012,10,Theft from Vehicle,953
+2012,11,Theft from Vehicle,942
+2012,12,Theft from Vehicle,933
+2013,1,Theft from Vehicle,943
+2013,2,Theft from Vehicle,940
+2013,3,Theft from Vehicle,947
+2013,4,Theft from Vehicle,947
+2013,5,Theft from Vehicle,947
+2013,6,Theft from Vehicle,955
+2013,7,Theft from Vehicle,949
+2013,8,Theft from Vehicle,962
+2013,9,Theft from Vehicle,962
+2013,10,Theft from Vehicle,954
+2013,11,Theft from Vehicle,937
+2013,12,Theft from Vehicle,928
+2012,1,Theft of Bicycle,99
+2012,2,Theft of Bicycle,103
+2012,3,Theft of Bicycle,131
+2012,4,Theft of Bicycle,196
+2012,5,Theft of Bicycle,318
+2012,6,Theft of Bicycle,448
+2012,7,Theft of Bicycle,467
+2012,8,Theft of Bicycle,439
+2012,9,Theft of Bicycle,367
+2012,10,Theft of Bicycle,352
+2012,11,Theft of Bicycle,237
+2012,12,Theft of Bicycle,150
+2013,1,Theft of Bicycle,119
+2013,2,Theft of Bicycle,114
+2013,3,Theft of Bicycle,137
+2013,4,Theft of Bicycle,201
+2013,5,Theft of Bicycle,329
+2013,6,Theft of Bicycle,449
+2013,7,Theft of Bicycle,464
+2013,8,Theft of Bicycle,438
+2013,9,Theft of Bicycle,397
+2013,10,Theft of Bicycle,384
+2013,11,Theft of Bicycle,297
+2013,12,Theft of Bicycle,211
+2012,1,Theft of Vehicle,132
+2012,2,Theft of Vehicle,123
+2012,3,Theft of Vehicle,117
+2012,4,Theft of Vehicle,108
+2012,5,Theft of Vehicle,110
+2012,6,Theft of Vehicle,111
+2012,7,Theft of Vehicle,109
+2012,8,Theft of Vehicle,112
+2012,9,Theft of Vehicle,118
+2012,10,Theft of Vehicle,121
+2012,11,Theft of Vehicle,130
+2012,12,Theft of Vehicle,124
+2013,1,Theft of Vehicle,106
+2013,2,Theft of Vehicle,103
+2013,3,Theft of Vehicle,102
+2013,4,Theft of Vehicle,96
+2013,5,Theft of Vehicle,96
+2013,6,Theft of Vehicle,96
+2013,7,Theft of Vehicle,96
+2013,8,Theft of Vehicle,97
+2013,9,Theft of Vehicle,100
+2013,10,Theft of Vehicle,101
+2013,11,Theft of Vehicle,97
+2013,12,Theft of Vehicle,97
+2012,1,Vehicle Collision or Pedestrian Struck (with Injury),127
+2012,2,Vehicle Collision or Pedestrian Struck (with Injury),125
+2012,3,Vehicle Collision or Pedestrian Struck (with Injury),120
+2012,4,Vehicle Collision or Pedestrian Struck (with Injury),123
+2012,5,Vehicle Collision or Pedestrian Struck (with Injury),131
+2012,6,Vehicle Collision or Pedestrian Struck (with Injury),131
+2012,7,Vehicle Collision or Pedestrian Struck (with Injury),139
+2012,8,Vehicle Collision or Pedestrian Struck (with Injury),142
+2012,9,Vehicle Collision or Pedestrian Struck (with Injury),144
+2012,10,Vehicle Collision or Pedestrian Struck (with Injury),145
+2012,11,Vehicle Collision or Pedestrian Struck (with Injury),145
+2012,12,Vehicle Collision or Pedestrian Struck (with Injury),143
+2013,1,Vehicle Collision or Pedestrian Struck (with Injury),127
+2013,2,Vehicle Collision or Pedestrian Struck (with Injury),127
+2013,3,Vehicle Collision or Pedestrian Struck (with Injury),126
+2013,4,Vehicle Collision or Pedestrian Struck (with Injury),124
+2013,5,Vehicle Collision or Pedestrian Struck (with Injury),131
+2013,6,Vehicle Collision or Pedestrian Struck (with Injury),131
+2013,7,Vehicle Collision or Pedestrian Struck (with Injury),142
+2013,8,Vehicle Collision or Pedestrian Struck (with Injury),141
+2013,9,Vehicle Collision or Pedestrian Struck (with Injury),145
+2013,10,Vehicle Collision or Pedestrian Struck (with Injury),143
+2013,11,Vehicle Collision or Pedestrian Struck (with Injury),142
+2013,12,Vehicle Collision or Pedestrian Struck (with Injury),142
