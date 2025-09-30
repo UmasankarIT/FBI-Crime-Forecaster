@@ -78,7 +78,7 @@ XGBoost consistently outperformed Random Forest for this dataset 🏆.
 
 💡 Future Enhancements
 
-Add geospatial analysis for location-based forecasting 🌍.
+Add improvements in geospatial analysis for location-based forecasting 🌍.
 
 Integrate real-time crime data for dynamic predictions ⏱️.
 
